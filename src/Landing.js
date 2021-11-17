@@ -22,8 +22,8 @@ function Landing() {
           <a href='' class='user'>
             <i class='fa fa-user'></i>
           </a>
-          <Link to='/user-pages/login-1' class='site-btn'>
-            Sign Up Free
+          <Link to='https://bitsafe-dashboard.web.app/login' class='site-btn'>
+            Dashboard
           </Link>
           <nav class='main-menu'>
             <ul class='menu-list'>
